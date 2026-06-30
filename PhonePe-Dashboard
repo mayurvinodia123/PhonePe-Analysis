@@ -1,0 +1,83 @@
+🚀 **Power BI Project – PhonePe Transaction Analysis Dashboard**
+
+I'm excited to share one of my latest **Power BI** projects: **PhonePe Transaction Analysis Dashboard**.
+
+This dashboard was designed to transform raw transaction data into meaningful business insights using Power BI, DAX, and Power Query. The goal was to help stakeholders monitor transaction performance, identify trends, and make data-driven decisions through an interactive and user-friendly dashboard.
+
+### 📊 Project Objectives
+
+* Analyze overall transaction performance.
+* Track transaction value and transaction count.
+* Measure Month-over-Month (MoM) business growth.
+* Identify the most frequently used services.
+* Monitor payment success rates.
+* Discover customer and weekday transaction patterns.
+
+### 🔹 Dashboard Features
+
+✅ Interactive KPI Cards displaying:
+
+* Total Transactions
+* Total Transaction Value
+* Total Customers
+
+✅ Month-over-Month Growth Analysis
+
+* MoM Transaction Growth %
+* MoM Transaction Value Growth %
+
+✅ Service-wise Analysis
+
+* Transactions by Service Type
+* Transaction Value by Service Type
+* Identify top-performing services
+
+✅ Payment Status Analysis
+
+* Successful
+* Failed
+* Pending Transactions
+
+✅ Customer Analysis
+
+* Top customers based on transaction volume
+
+✅ Time Analysis
+
+* Monthly transaction trend
+* Weekday vs Weekend insights
+
+### 📈 Key Business Insights
+
+* Approximately **96%** of all transactions were completed successfully.
+* **Weekdays** recorded higher transaction volumes compared to weekends.
+* **Loan services** generated the highest transaction value.
+* Monthly trend analysis helped identify business growth patterns.
+* Service-wise analysis highlighted customer preferences across different transaction types.
+* KPI cards provide an instant overview of business performance.
+
+### 🛠 Tools & Technologies Used
+
+* Microsoft Power BI
+* Power Query
+* DAX (Data Analysis Expressions)
+* Data Modeling
+* Time Intelligence
+* Interactive Visualizations
+* KPI Dashboard Design
+
+### 📚 Skills Demonstrated
+
+* Data Cleaning & Transformation
+* Data Modeling
+* DAX Calculations
+* Time Intelligence
+* Business Intelligence
+* Dashboard Design
+* Data Visualization
+* Insight Generation
+* Performance Analysis
+
+This project strengthened my understanding of building business dashboards that not only visualize data but also provide actionable insights for decision-makers.
+
+#PowerBI #BusinessIntelligence #DataAnalytics #DataVisualization #Dashboard #PowerQuery #DAX #SQL #Analytics #MicrosoftPowerBI #DataAnalysis #BusinessAnalytics #PortfolioProject #Learning #OpenToWork
